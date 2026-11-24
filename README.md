@@ -10,7 +10,7 @@
 
 ### Hi, I'm Rami 👋
 
-I build **RAG and LLM systems that work in Arabic**, backed by solid data engineering and full-stack delivery.
+I build **RAG and LLM systems**, backed by solid data engineering and full-stack delivery.
 
 - 🎓 Informatics Engineering student (AI specialization), Damascus University
 - 🤖 AI Engineer intern at **SharafAI**: offline, air-gapped AI for private documents
