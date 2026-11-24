@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rami%20Othman&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20RAG%20%26%20LLM%20systems%20for%20Arabic&descSize=18&descAlignY=58" width="100%" alt="Rami Othman, AI Engineer" />
+<img src="assets/banner.svg" width="100%" alt="Rami Othman, AI Engineer" />
 
 <a href="https://www.linkedin.com/in/rami-othman-322249204/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Open%20to-AI%20Engineering%20roles-2ea44f?style=for-the-badge" alt="Open to AI Engineering roles" />
@@ -104,6 +104,6 @@ Laravel + FastAPI + Flutter + React platforms in production use.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
